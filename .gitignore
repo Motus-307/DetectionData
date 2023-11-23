@@ -48,12 +48,7 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-#EAP Non 307 files
-BemptonRSPB_CTT-19141AFB34F0.motus.csv
-StanfordReservoir_CTT-6A35DE207818.motus.csv
-TheDeep_CTT-77C282B0581A.motus.csv
-TophillLow_CTT-97B20FBE69BF.motus.csv
-Wheldrake_CTT-AD554C13AB19.motus.csv
+#EAP Don't synchonise Non 307 receivers
 Bempton*
 Stanford*
 TheDeep*
