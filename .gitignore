@@ -48,6 +48,9 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# Git dot files
+-git*
+
 #EAP Don't synchonise Non 307 receivers
 Bempton*
 Stanford*
