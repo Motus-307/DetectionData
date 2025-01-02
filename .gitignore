@@ -49,7 +49,7 @@ po/*~
 rsconnect/
 
 # Git dot files
--git*
+.git*
 
 #EAP Don't synchonise Non 307 receivers
 Bempton*
@@ -58,3 +58,10 @@ TheDeep*
 Tophill*
 Wheldrake*
 NA_*
+
+# EAP Large files that are now zipped
+Ormesby_CTT-V3023D1536C4.motus.csv
+Spurn_SG-3206RPI30D24.motus.csv
+BemptonRSPB_CTT-19141AFB34F0.motus.csv
+Benacre_SG-2C25RPI3D464.motus.csv
+
